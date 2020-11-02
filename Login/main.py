@@ -1,0 +1,11 @@
+print("************* LOGIN *************")
+print("*                               *")
+print("* 1. Login                      *")
+print("* 2. Register                   *")
+print("*                               *")
+print("*********************************")
+
+print("Enter your username: ")
+username = input()
+print("Enter your password: ")
+password = input()
